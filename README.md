@@ -1,2 +1,2 @@
-# pokerbot
+# PokerBot
 Poker AI Bot
